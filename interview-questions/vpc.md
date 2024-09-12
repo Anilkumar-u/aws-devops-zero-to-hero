@@ -22,7 +22,7 @@ A route table defines the rules for routing traffic within a VPC. It determines 
 ### 8. How do security groups work in Amazon VPC?
 Security groups act as virtual firewalls for your instances, controlling inbound and outbound traffic. They can be associated with instances and control their network access.
 
-### 9. What are network access control lists (ACLs) in Amazon VPC?
+### 9. What are network access control lists (NACLs) in Amazon VPC?
 Network ACLs are stateless filters that control inbound and outbound traffic at the subnet level. They provide an additional layer of security to control traffic flow.
 
 ### 10. How can you ensure private communication between instances in Amazon VPC?
